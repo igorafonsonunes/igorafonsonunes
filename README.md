@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Igor Nunes</h1>
 <h3 align="center">I'm passionate about backend development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorafonsonunes&label=Profile%20views&color=0e75b6&style=flat" alt="igorafonsonunes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorafonsonunes&label=Profile%20views&color=808080&style=flat" alt="igorafonsonunes" /> </p>
+
+- 🔭 I’m currently working on **Today i'm working for solarview company like a developer backend.**
+
+- 🌱 I’m currently learning **I am studying to become a Full Cycle developer**
+
+- 👯 I’m looking to collaborate on **so if you have a project and need help, send me an email**
+
+- 👨‍💻 All of my projects are available at [github.com/igorafonsonunes](github.com/igorafonsonunes)
 
 - 📫 How to reach me **igorafonsonunes@outlook.com**
 
