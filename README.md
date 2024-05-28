@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorafonsonunes&label=Profile%20views&color=808080&style=flat" alt="igorafonsonunes" /> </p>
 
-- 🔭 I’m currently working on **Today i'm working for solarview company like a developer backend.**
+- 🔭 I’m currently working on **Today i'm working for Estrelabet company like a developer backend.**
 
 - 🌱 I’m currently learning **I am studying to become a Full Cycle developer**
 
